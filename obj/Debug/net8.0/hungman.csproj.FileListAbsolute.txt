@@ -1,0 +1,14 @@
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\bin\Debug\net8.0\hungman.exe
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\bin\Debug\net8.0\hungman.deps.json
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\bin\Debug\net8.0\hungman.runtimeconfig.json
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\bin\Debug\net8.0\hungman.dll
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\bin\Debug\net8.0\hungman.pdb
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\obj\Debug\net8.0\hungman.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\obj\Debug\net8.0\hungman.AssemblyInfoInputs.cache
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\obj\Debug\net8.0\hungman.AssemblyInfo.cs
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\obj\Debug\net8.0\hungman.csproj.CoreCompileInputs.cache
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\obj\Debug\net8.0\hungman.dll
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\obj\Debug\net8.0\refint\hungman.dll
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\obj\Debug\net8.0\hungman.pdb
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\obj\Debug\net8.0\hungman.genruntimeconfig.cache
+c:\Users\teodora.avramovic\prog 2\hungman\hungman\obj\Debug\net8.0\ref\hungman.dll
