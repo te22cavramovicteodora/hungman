@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teodora.avramovic\\prog 2\\hungman\\hungman\\hungman.csproj": {}
+    "C:\\Users\\teodora.avramovic\\Documents\\prog2\\hungman\\hungman\\hungman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teodora.avramovic\\prog 2\\hungman\\hungman\\hungman.csproj": {
+    "C:\\Users\\teodora.avramovic\\Documents\\prog2\\hungman\\hungman\\hungman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teodora.avramovic\\prog 2\\hungman\\hungman\\hungman.csproj",
+        "projectUniqueName": "C:\\Users\\teodora.avramovic\\Documents\\prog2\\hungman\\hungman\\hungman.csproj",
         "projectName": "hungman",
-        "projectPath": "C:\\Users\\teodora.avramovic\\prog 2\\hungman\\hungman\\hungman.csproj",
+        "projectPath": "C:\\Users\\teodora.avramovic\\Documents\\prog2\\hungman\\hungman\\hungman.csproj",
         "packagesPath": "C:\\Users\\teodora.avramovic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teodora.avramovic\\prog 2\\hungman\\hungman\\obj\\",
+        "outputPath": "C:\\Users\\teodora.avramovic\\Documents\\prog2\\hungman\\hungman\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
